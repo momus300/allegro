@@ -105,3 +105,4 @@ try {
     echo $e->getMessage() . "\n";
 }
 
+echo 'super poprawna zmiana, przeszla testy na qa i idzie do mastaera';
