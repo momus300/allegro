@@ -89,7 +89,11 @@ class Client
         return $this->client->$methodName($data);
     }
 
+
+
 }
+
+echo 'tutaj moge devowe zmiany, niepotrzebne smieci';
 
 //$allegroApi = new Client(true);
 $allegroApi = new Client();
